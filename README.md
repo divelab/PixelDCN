@@ -4,7 +4,7 @@ Created by [Hongyang Gao](http://people.tamu.edu/~hongyang.gao/), [Hao Yuan](htt
 
 ## Introduction
 
-Pixel transposed deconvolutional layer (PixelTCL) is a more effective way to perform up-sampling operations than transposed deconvolutional layer.
+Pixel transposed convolutional layer (PixelTCL) is a more effective way to perform up-sampling operations than transposed convolutional layer.
 
 Detailed information about PixelTCL is provided in [arXiv tech report] (https://arxiv.org/abs/1705.06820).
 
