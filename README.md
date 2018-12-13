@@ -14,7 +14,7 @@ If using this code, please cite our paper.
 
 ```
 @article{gao2017pixel,
-  title={Pixel Transposed Deconvolutional Networks},
+  title={Pixel Transposed Convolutional Networks},
   author={Hongyang Gao and Hao Yuan and Zhengyang Wang and Shuiwang Ji},
   journal={arXiv preprint arXiv:1705.06820},
   year={2017}
@@ -29,8 +29,8 @@ If using this code, please cite our paper.
 
 Comparison of semantic segmentation results. The first and second rows
 are images and ground true labels, respectively. The third and fourth
-rows are the results of using regular transposed deconvolution and our proposed
-pixel transposed deconvolution, respectively.
+rows are the results of using regular transposed convolution and our proposed
+pixel transposed convolution, respectively.
 
 #### Generate real images (VAE)
 
