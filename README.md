@@ -156,7 +156,7 @@ python main.py --action=predict
 
 The predicted segmentation results will be in sampledir set in main.py, colored.
 
-## Use PixelDCL in other models
+## Use PixelTCL in other models
 
 If you want to use pixel transposed convolutional layer in other models, just copy the file
 
